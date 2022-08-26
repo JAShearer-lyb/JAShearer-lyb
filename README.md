@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAShearer-lyb
 - 👀 I’m interested in dolphins
 - 🌱 I’m currently learning beans
-- 💞️ I’m looking to collaborate on Obscure 40k lists
+- 💞️ I’m looking to collaborate on obtuse 40k lists
 - 📫 How to reach me via worldsinger
 
 <!---
